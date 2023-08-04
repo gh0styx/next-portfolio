@@ -4,8 +4,6 @@ import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import ProjectCard from "@/components/ProjectCard";
 
-
-
 const projects = () => {
   return (
     <>
@@ -108,7 +106,7 @@ const projects = () => {
           </div> */}
           </div>
 
-          <Footer />
+          {/* <Footer /> */}
         </section>
       </main>
     </>
