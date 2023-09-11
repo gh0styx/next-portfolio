@@ -16,10 +16,9 @@ const projects = () => {
 
           <div className="flex justify-center flex-wrap">
             <ProjectCard
-              title="Card Title"
-              text=" Some quick example text to build on the card title and make up
-                  the bulk of the card's content."
-              url="https://www.linkedin.com/in/chermalykhprofile/"
+              title="Tech-Shop"
+              text="Next.js Tech-Shop. MongoDB. E-commerce store"
+              url="https://github.com/1lexaa/next-tech-shop"
             />
             <ProjectCard
               title="Card Title"
